@@ -1,4 +1,4 @@
-// E26 Second Attempt - 7:18
+// E27 Second Attempt - 7:18
 
 const test1 = ['a', 'b', 'c'];
 const test2 = [1, 2, 3];
